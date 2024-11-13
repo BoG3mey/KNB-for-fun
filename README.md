@@ -15,4 +15,4 @@
 1. Python 3.x
 2. Библиотека Pygame (pip install pygame)
 
-This project is created by [abik](https://github.com/BoG3mey).
+This project is created by [abik](https://github.com/abi4ka).
